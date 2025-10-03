@@ -31,6 +31,23 @@ This project includes:
   **Here’s a sample game where Player X wins with a horizontal line:**
   <img width="1929" height="877" alt="image" src="https://github.com/user-attachments/assets/8eface51-4447-4d58-b975-f3585552d55a" />
 
+---
+
+## 📁 Project Structure
+
+This project includes all the essential components for a multimedia-enhanced Tic Tac Toe game. Here's a breakdown of the files and their roles:
+**📦 MyTicTacToe**
+
+```
+├── 🎨 tic.css — Styles the game board and UI elements
+├── 🧠 tic.js — Contains the game logic and interactivity
+├── 🏗️ tic.html — Main HTML file that structures the game layout
+├── 🔊 music.mp3 — Background music for a more engaging experience
+├── 🔔 ting.mp3 — Sound effect for player moves or interactions
+├── 💥 gameover.mp3 — Plays when the game ends
+├── 🎉 excited.gif — Visual celebration for a win or game over
+```
+
 ## 🚀 How to Run
 
 1. **Clone the repository**  
@@ -56,3 +73,16 @@ This project includes:
 - **HTML5** – Structure of the game board and elements  
 - **CSS3** – Styling and layout  
 - **JavaScript (Vanilla)** – Game logic and interactivity
+  
+---
+
+## 📌 Future Improvements
+
+- 🤖 **Add AI for single-player mode**  
+  Implement a basic computer opponent using decision-making logic or algorithms like Minimax.
+
+- 🧮 **Track score across multiple rounds**  
+  Display cumulative scores for both players to enhance competitiveness.
+
+- 📱 **Optimize for mobile devices**  
+  Ensure responsive design and touch-friendly controls for smooth gameplay on phones and tablets.
