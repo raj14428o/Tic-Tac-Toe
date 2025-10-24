@@ -39,9 +39,9 @@ This project includes all the essential components for a multimedia-enhanced Tic
 **📦 MyTicTacToe**
 
 ```
-├── 🎨 tic.css — Styles the game board and UI elements
-├── 🧠 tic.js — Contains the game logic and interactivity
-├── 🏗️ tic.html — Main HTML file that structures the game layout
+├── 🎨 style.css — Styles the game board and UI elements
+├── 🧠 script.js — Contains the game logic and interactivity
+├── 🏗️ index.html — Main HTML file that structures the game layout
 ├── 🔊 music.mp3 — Background music for a more engaging experience
 ├── 🔔 ting.mp3 — Sound effect for player moves or interactions
 ├── 💥 gameover.mp3 — Plays when the game ends
